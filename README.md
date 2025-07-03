@@ -28,9 +28,7 @@ Proyek ini mengklasifikasikan tipe kepribadian MBTI berdasarkan teks pengguna me
 - Pelatihan & evaluasi beberapa model ML:
   - Logistic Regression
   - Naive Bayes
-  - Decision Tree
   - Random Forest
-  - Gradient Boosted Trees
 - Evaluasi model dengan metrik:
   - Accuracy
   - Precision
